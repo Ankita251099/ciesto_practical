@@ -20,7 +20,7 @@ class DashboardController extends Controller
     public function index(Request $request)
     {
         // dd('asd');
-
+            // dd('dasda');
         return view('dashboard.dashboard');
 
     }
